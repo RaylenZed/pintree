@@ -3582,5 +3582,19 @@
         ]
       }
     ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1718526477999,
+    "title": "Vincent",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "Vincent's Notes",
+        "icon": "https://logo.clearbit.com/missuo.me",
+        "url": "https://missuo.me/"
+      }
+    ]
   }
 ]
