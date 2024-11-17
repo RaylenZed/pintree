@@ -24,6 +24,34 @@
         "title": "Vincent's Notes",
         "icon": "https://logo.clearbit.com/missuo.me",
         "url": "https://missuo.me/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "Wakuwaku",
+        "icon": "https://logo.clearbit.com/wakuwaku.im",
+        "url": "https://wakuwaku.im/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "iCloud+ Global Pricing",
+        "icon": "https://logo.clearbit.com/www.apple.com",
+        "url": "https://icloud.owo.nz/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "DeeplX",
+        "icon": "https://logo.clearbit.com/deepl.com",
+        "url": "https://deeplx.missuo.ru/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "RSSHub",
+        "icon": "https://rsshub.app/logo.png",
+        "url": "https://rsshub.owo.nz/"
       }
     ]
   }
