@@ -29,7 +29,7 @@
         "type": "link",
         "addDate": 1718526687700,
         "title": "Wakuwaku",
-        "icon": "https://logo.clearbit.com/wakuwaku.im",
+        "icon": "https://avatars.githubusercontent.com/u/82772671?s=200&v=4",
         "url": "https://wakuwaku.im/"
       },
       {
@@ -52,6 +52,20 @@
         "title": "RSSHub",
         "icon": "https://rsshub.app/logo.png",
         "url": "https://rsshub.owo.nz/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "Subscription Converter",
+        "icon": "https://avatars.githubusercontent.com/u/82772671?s=200&v=4",
+        "url": "https://sub.missuo.me/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "Snell Panel",
+        "icon": "https://avatars.githubusercontent.com/u/82772671?s=200&v=4",
+        "url": "https://snell-panel.owo.nz/"
       }
     ]
   }
